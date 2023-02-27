@@ -1,6 +1,6 @@
-- 👋 Hi, I’m mohamed
-- 👀 I’m interested in ... python and sql
-- 🌱 I’m currently learning ... data analysis
+- 👋 Hi, I’m houssem
+- 👀 I’m interested in ... python 
+- 🌱 I’m currently learning ... deep learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... linkedin.com/in/mohamed-houssem-abed-b81b79228
 
